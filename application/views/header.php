@@ -54,7 +54,8 @@
     
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico?v=1.1">
+    <!-- <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico?v=1.2"> -->
+    <link rel="stylesheet" type="text/css" href="<?=PUBLIC_URL?>images/favicon.ico?v=1">
 </head>
 <body>
 
@@ -72,6 +73,8 @@
                     <li><a href="<?=BASE_URL?>About">ಆಚಾರ್ಯರ ಬಗ್ಗೆ</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>Krutigalu">ಕೃತಿಗಳು</a></li>
+                    <li><small><a class="dot" href="javascript:void();">•</a></small></li>
+                    <li><a href="<?=BASE_URL?>Others">ಉಲ್ಲೇಖಗಳು</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>Gallery/Photos">ಚಿತ್ರಶಾಲೆ</a></li>
                     <!-- <li class="dropdown">

@@ -144,6 +144,20 @@ a {
   font-size: 17px;
 }
 
+.right{
+  float: right;
+}
+
+
+
+
+.fixOverlayDiv {
+    position: relative;
+    /*width: 100%;*/
+    padding-top: 10px;
+    margin-right:-8px !important;
+}
+
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
         margin-top: 90px;
@@ -178,6 +192,19 @@ a {
       margin: 0px;
       height: 220px;
     }
+}
+
+
+.card-columns {
+  @include media-breakpoint-only(md) {
+    column-count: 4 !important;
+  }  
+  @include media-breakpoint-only(lg) {
+    column-count: 4 !important;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
 }
 
 /*Scroll down*/

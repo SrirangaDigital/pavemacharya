@@ -101,6 +101,127 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/032"><img src="<?=IMAGE_URL?>books/032.jpg" alt="Books images" /><h5 class="card-title">ಪ್ರಪಂಚದ ಪಾಪು ಕಸ್ತೂರಿಯ ಪಾವೆಂ</h5></a>
 					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/035"><img src="<?=IMAGE_URL?>books/035.jpg" alt="Books images" /><h5 class="card-title">ಪತ್ರಗಳು</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/036"><img src="<?=IMAGE_URL?>books/036.jpg" alt="Books images" /><h5 class="card-title">ಗೊಯಾಂಕ ಪತ್ರಗಳು</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/037"><img src="<?=IMAGE_URL?>books/037.jpg" alt="Books images" /><h5 class="card-title">ವೃತ್ತಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಅಂಕಣಗಳು</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/038"><img src="<?=IMAGE_URL?>books/038.jpg" alt="Books images" /><h5 class="card-title">ಕಳ್ಳಸಾಗಣೆದಾರರ ನಿರ್ಮೂಲನ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/039"><img src="<?=IMAGE_URL?>books/039.jpg" alt="Books images" /><h5 class="card-title">ಸ್ವತಂತ್ರ ಭಾರತ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040a"><img src="<?=IMAGE_URL?>books/040a.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040b"><img src="<?=IMAGE_URL?>books/040b.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040c"><img src="<?=IMAGE_URL?>books/040c.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೩</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040d"><img src="<?=IMAGE_URL?>books/040d.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೪</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040e"><img src="<?=IMAGE_URL?>books/040e.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೫</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040f"><img src="<?=IMAGE_URL?>books/040f.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೬</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040g"><img src="<?=IMAGE_URL?>books/040g.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೭</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040h"><img src="<?=IMAGE_URL?>books/040h.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೮</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040i"><img src="<?=IMAGE_URL?>books/040i.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೯</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040j"><img src="<?=IMAGE_URL?>books/040j.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೦</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040k"><img src="<?=IMAGE_URL?>books/040k.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೧</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040l"><img src="<?=IMAGE_URL?>books/040l.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೨</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040m"><img src="<?=IMAGE_URL?>books/040m.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೩</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040n"><img src="<?=IMAGE_URL?>books/040n.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೪</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040o"><img src="<?=IMAGE_URL?>books/040o.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೫</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040p"><img src="<?=IMAGE_URL?>books/040p.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೬</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040q"><img src="<?=IMAGE_URL?>books/040q.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೭</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040r"><img src="<?=IMAGE_URL?>books/040r.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೮</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040s"><img src="<?=IMAGE_URL?>books/040s.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೧೯</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040t"><img src="<?=IMAGE_URL?>books/040t.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೦</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040u"><img src="<?=IMAGE_URL?>books/040u.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೧</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040v"><img src="<?=IMAGE_URL?>books/040v.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೨</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040w"><img src="<?=IMAGE_URL?>books/040w.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೩</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040x"><img src="<?=IMAGE_URL?>books/040x.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೪</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/040y"><img src="<?=IMAGE_URL?>books/040y.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೧, ಸಂಚಿಕೆ ೨೫</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041c"><img src="<?=IMAGE_URL?>books/041c.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೩</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041d"><img src="<?=IMAGE_URL?>books/041d.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೪</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041e"><img src="<?=IMAGE_URL?>books/041e.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೫</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041g"><img src="<?=IMAGE_URL?>books/041g.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೭</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041h"><img src="<?=IMAGE_URL?>books/041h.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೮</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041i"><img src="<?=IMAGE_URL?>books/041i.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೦೯</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041j"><img src="<?=IMAGE_URL?>books/041j.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೧೦</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041k"><img src="<?=IMAGE_URL?>books/041k.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೧೧</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041l"><img src="<?=IMAGE_URL?>books/041l.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೧೨</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/041m"><img src="<?=IMAGE_URL?>books/041m.jpg" alt="Books images" /><h5 class="card-title">ಅಂತರಂಗ - ಸಂಪುಟ ೫, ಸಂಚಿಕೆ ೧೧೩</h5></a>
+					</div>
+
 				</div>
 			</div>
 		</div>

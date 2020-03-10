@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <p><small>© ೨೦೧೯ - ಸಾಹಿತಿ ಮತ್ತು ಪತ್ರಿಕೋದ್ಯೋಗಿ ಪಾ. ವೆಂ. ಆಚಾರ್ಯ</small></p>
+                <p><small>© ೨೦೨೦ - ಸಾಹಿತಿ ಮತ್ತು ಪತ್ರಿಕೋದ್ಯೋಗಿ ಪಾ. ವೆಂ. ಆಚಾರ್ಯ</small></p>
             </div>
         </div>
     </div>
