@@ -1,15 +1,6 @@
 <div class="container" id="viewimages"><br />
-	<!-- <nav class="nav nav-tabs justify-content-around about-tabs" id="myTab" role="tablist">
-		<a class="col-md-2 text-center nav-item nav-link active" id="nav-about-tab" data-toggle="tab" href="#nav-about" role="tab" aria-controls="nav-about" aria-selected="true">ಶರ್ಮರ ಪರಿಚಯ</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-article-tab" data-toggle="tab" href="#nav-article" role="tab" aria-controls="nav-article" aria-selected="false">ಶರ್ಮರ ಕುರಿತು</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-paper-article-tab" data-toggle="tab" href="#nav-paper-article" role="tab" aria-controls="nav-paper-article" aria-selected="false">ಪತ್ರಿಕಾ ವರದಿಗಳು</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-award-tab" data-toggle="tab" href="#nav-award" role="tab" aria-controls="nav-award" aria-selected="false">ಪ್ರಶಸ್ತಿಗಳು</a>
-		<a class="col-md-2 text-center nav-item nav-link sanskrit" id="nav-sanskrit-tab" data-toggle="tab" href="#nav-sanskrit" role="tab" aria-controls="nav-sanskrit" aria-selected="false">संस्कृतम्</a>
-		<a class="col-md-2 text-center nav-item nav-link english" id="nav-english-tab" data-toggle="tab" href="#nav-english" role="tab" aria-controls="nav-english" aria-selected="false">English</a>
-	</nav> -->
 	<div class="tab-content about-content" id="nav-tabContent">
 		<div class="tab-pane fade show active" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
-			<!-- about -->
 			<div class="container bio">
 				<div class="row">
 					<div class="col-md-12">
@@ -24,12 +15,6 @@
 									<figcaption>ಪಾ. ವೆಂ.ಆಚಾರ್ಯರು</figcaption>
 								</figure>
 							</div>
-							<!-- <div class="col-md-4">
-								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>sharma2.jpg" />
-									<figcaption>ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ</figcaption>
-								</figure>
-							</div> -->
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>sharma3.jpg" />
@@ -1121,4 +1106,9 @@
 			</div> -->
 			<!-- </div> -->
 		</div>
+			</div>
+				</div>
+			</div>
+		</div>					
+
 	</div>
