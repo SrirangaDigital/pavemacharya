@@ -11,14 +11,14 @@
 						<div class="row">
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>sharma1.jpg" />
-									<figcaption>ಪಾ. ವೆಂ.ಆಚಾರ್ಯರು</figcaption>
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>pavem1.jpg" />
+									<figcaption>ಪಾವೆಂ ಆಚಾರ್ಯರು</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>sharma3.jpg" />
-									<figcaption>ಪ್ರೀತಿಯ</figcaption>
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>pavem2.jpg" />
+									<figcaption>ಪಾವೆಂ ದಂಪತಿಗಳು</figcaption>
 								</figure>
 							</div>
 						</div>

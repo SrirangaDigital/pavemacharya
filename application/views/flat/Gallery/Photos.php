@@ -11,9 +11,9 @@
 			<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/002.jpg" src="<?=IMAGE_URL?>gallery/thumbs/002.jpg" alt="" />
 			</div>
-			<div class="fixOverlayDiv">
+		<!-- 	<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/003.jpg" src="<?=IMAGE_URL?>gallery/thumbs/003.jpg" alt="" />
-			</div>
+			</div> -->
 			<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/004.jpg" src="<?=IMAGE_URL?>gallery/thumbs/004.jpg" alt="" />
 			</div>
@@ -50,12 +50,12 @@
 			<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/015.jpg" src="<?=IMAGE_URL?>gallery/thumbs/015.jpg" alt="" />
 			</div>
-			<div class="fixOverlayDiv">
+			<!-- <div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/016.jpg" src="<?=IMAGE_URL?>gallery/thumbs/016.jpg" alt="" />
 			</div>
 			<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/017.jpg" src="<?=IMAGE_URL?>gallery/thumbs/017.jpg" alt="" />
-			</div>
+			</div> -->
 			<div class="fixOverlayDiv">
 				<img class="img-responsive" data-original="<?=IMAGE_URL?>gallery/main/018.jpg" src="<?=IMAGE_URL?>gallery/thumbs/018.jpg" alt="" />
 			</div>

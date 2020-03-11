@@ -21,7 +21,7 @@
 				}
 			?>
 		</div>
-		<div class="col-md-2 text-center mt-4">
+		<div class="col-md-2 text-center mt-4 ">
 			<img src="<?=PUBLIC_URL?>images/books/<?=$bookID?>.jpg" alt="images" />
 		</div>
 		<?php

@@ -12,28 +12,28 @@
 				</ol>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel1.jpg" alt="ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ">
-						<div class="carousel-caption pos-2-3-left scheme-dark">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel.jpg" alt="">
+						<!-- <div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">Photo Caption </p>
-						</div>
+						</div> -->
 					</div>
 					<div class="carousel-item">
-						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel2.jpg" alt="ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿ ಡಾ|| ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು">
-						<div class="carousel-caption pos-2-3-left scheme-dark">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel1.jpg" alt="">
+						<!-- <div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">Photo Caption</p>
-						</div>
+						</div> -->
 					</div>
 					<div class="carousel-item">
-						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel3.jpg" alt="ಡಿ.ವಿ.ಜಿ. ಬಳಗದಿಂದ ಸಮ್ಮಾನ">
-						<div class="carousel-caption pos-2-3-left scheme-dark">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel2.jpg" alt="">
+						<!-- <div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">Photo Caption</p>
-						</div>
+						</div> -->
 					</div>
 					<div class="carousel-item">
-						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel4.jpg" alt="">
-						<div class="carousel-caption pos-2-3-left scheme-dark">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel3.jpg" alt="">
+						<!-- <div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">Photo Caption</p>
-						</div>
+						</div> -->
 					</div>
 					<a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
 						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -49,7 +49,7 @@
 	</div>
 	<div class="row small-bio">
 		<div class="col-md-12 subtitle">
-			<h4>ಪಾ. ವೆಂ.ಆಚಾರ್ಯರ ಕಿರು ಪರಿಚಯ</h4>
+			<h4>ಪಾವೆಂ ಆಚಾರ್ಯರ ಕಿರು ಪರಿಚಯ</h4>
 		</div>
 		<div class="col-md-8">
 			<p>ಪಾಡಿಗಾರು ವೆಂಕಟರಮಣ ಆಚಾರ್ಯರದು ಕನ್ನಡ ಪತ್ರಿಕೋದ್ಯಮ ಮತ್ತು ಸಾರಸ್ವತ ಲೋಕದಲ್ಲಿ ಅಚ್ಚಳಿಯದ ಹೆಸರು. ಜೀವನೋಪಾಯಕ್ಕಾಗಿ  ಪತ್ರಿಕೋದ್ಯಮವನ್ನು ವೃತ್ತಿಯಾಗಿ ಅವಲಂಬಿಸಿದ್ದರೂ, ಮೂಲಭೂತವಾಗಿ ಅವರು ಸಾಹಿತ್ಯಕ ಒಲವಿನವರಾಗಿದ್ದು ಕನ್ನಡ ಸಾಹಿತ್ಯ ಲೋಕದ ವಿವಿಧ ಆಯಾಮಗಳಲ್ಲಿ ಸಮರ್ಥವಾಗಿ ಕೈಯಾಡಿಸಿ ಸೈ ಎನಿಸಿಕೊಂಡವರು "ಸೃಜನಾತ್ಮಕ-ಸಾಹಿತ್ಯ" ಎಂಬ ಹಣಿಪಟ್ಟಿಯಡಿಯಲ್ಲಿ ಬರುವ ಅವರ ಬರಹಗಳ ಸಂಖ್ಯೆ ಮತ್ತು ಗಾತ್ರದಲ್ಲಿ ಸೀಮಿತವಾಗಿದ್ದರೂ ಗುಣಮಟ್ಟದಲ್ಲಿ  ಅವು ಅಪ್ಪಟ ಚಿನ್ನ ಎಂಬುದನ್ನು ಎಲ್ಲರೂ ಒಪ್ಪುತ್ತಾರೆ. ಓರ್ವ ಪತ್ರಿಕಾ ಸಂಪಾದಕರಾಗಿ ತನ್ನ ವೃತ್ತಿ ಜೀವನದ ಬಹುಪಾಲು ಬೇರೆಯವರು ಬರೆದದ್ದನ್ನು ತಿದ್ದಿ ತೀಡಿ ಪ್ರಕಟನೆಗೆ ಯೋಗ್ಯವೆನಿಸಲು  ಶ್ರಮಿಸಿದ ಅವರಿಗೆ ಸಾಹಿತ್ಯರಂಗದಲ್ಲಿ ತನ್ನದೇ ಆದ ಕೃಷಿ ಮಾಡಲು ಸಮಯಾವಕಾಶ ಸಾಕಷ್ಟು ಇರಲಿಲ್ಲ.</p>

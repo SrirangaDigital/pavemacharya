@@ -70,7 +70,7 @@
     <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
         <div class="container-fluid clear-paddings">
             <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a>
-            <p class="navbar-text" id="navbarText"><small>ಸಾಹಿತಿ ಮತ್ತು ಪತ್ರಿಕೋದ್ಯೋಗಿ</small><br />ಪಾ. ವೆಂ. ಆಚಾರ್ಯ</p>
+            <p class="navbar-text" id="navbarText"><small>ಸಾಹಿತಿ ಮತ್ತು ಪತ್ರಿಕೋದ್ಯಮಿ</small><br />ಪಾವೆಂ ಆಚಾರ್ಯ</p>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
@@ -83,6 +83,8 @@
                     <li><a href="<?=BASE_URL?>Others">ಉಲ್ಲೇಖಗಳು</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>Gallery/Photos">ಚಿತ್ರಶಾಲೆ</a></li>
+                    <li><small><a class="dot" href="javascript:void();">•</a></small></li>
+                    <li><a href="<?=BASE_URL?>patra">ಪತ್ರಶಾಲೆ</a></li>
                     <!-- <li class="dropdown">
                         <a class="dropdown-toggle" href="http://example.com" data-toggle="dropdown" aria-haspopup="true">ಚಿತ್ರಶಾಲೆ</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
