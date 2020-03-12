@@ -105,7 +105,7 @@
 						<a href="<?=BASE_URL?>listing/toc/035"><img src="<?=IMAGE_URL?>books/035.jpg" alt="Books images" /><h5 class="card-title">ಪತ್ರಗಳು</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/036"><img src="<?=IMAGE_URL?>books/036.jpg" alt="Books images" /><h5 class="card-title">ಗೊಯಾಂಕ ಪತ್ರಗಳು</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/036"><img src="<?=IMAGE_URL?>books/036.jpg" alt="Books images" /><h5 class="card-title">ಗೊಯೆಂಕಾ ಪತ್ರಗಳು</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/037"><img src="<?=IMAGE_URL?>books/037.jpg" alt="Books images" /><h5 class="card-title">ವೃತ್ತಪತ್ರಿಕೆಗಳ ಆಯ್ದ ಅಂಕಣಗಳು</h5></a>
