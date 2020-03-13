@@ -60,6 +60,24 @@
 			<img class="img-thumbnail" src="<?=IMAGE_URL?>bioPic.jpg" alt="">
 		</div>
 	</div>
+
+	<div class="row mt-5 awards">
+		<div class="col-md-12 subtitle">
+			<h4 class="text-left">ಪ್ರಶಸ್ತಿಗಳು <!-- ಮತ್ತು ಸಮ್ಮಾನಗಳು --></h4>
+		</div>
+		<div class="col-md-9">
+			<div class="row">
+				<div class="col-md-3 text-center"><img class="img-thumbnail" src="<?=IMAGE_URL?>awards/awards1.jpg" alt=""></div>
+				<div class="col-md-3 text-center"><img class="img-thumbnail" src="<?=IMAGE_URL?>awards/awards2.jpg" alt=""></div>
+				<div class="col-md-3 text-center"><img class="img-thumbnail" src="<?=IMAGE_URL?>awards/awards3.jpg" alt=""></div>
+				<div class="col-md-3 text-center"><img class="img-thumbnail" src="<?=IMAGE_URL?>awards/awards4.jpg" alt=""></div>
+			</div>
+		</div>
+	<!-- 	<div class="col-md-3">
+			ಭರತಖಂಡ ಕಂಡ ಅತಿವಿಶಿಷ್ಟ ಪಂಡಿತರು ಶ್ರೀಯುತ ಶರ್ಮರು. ಇವರ ಸಾಧನೆಯನ್ನು ಕಂಡು ಅರಸಿ ಬಂದ ಪ್ರಶಸ್ತಿಗಳು ನೂರಾರು. ನಡಹಳ್ಳಿಯ ಗ್ರಾಮಸ್ಥರ ಪ್ರೀತಿಯ ಸಮ್ಮಾನದಿಂದಾರಂಭಿಸಿ ರಾಷ್ಟ್ರಪತಿ ಪುರಸ್ಕಾರದವರೆಗಿನ ಎಲ್ಲ ಪ್ರಶಸ್ತಿಗಳೂ ಇವರಿಗೆ ಸಂದಿವೆ. ಅನೇಕ ಮಠಗಳು, ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು, ಸಾರ್ವಜನಿಕ ಸಂಸ್ಥೆಗಳು, ಸರಕಾರ ಇವರಿಗೆ ಪ್ರಶಸ್ತಿ ನೀಡುವ ಮೂಲಕ ತಮ್ಮ ಸಂಸ್ಥೆಯ ಗೌರವವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಂಡಿವೆ. <a href="https://vidwannrs.in/About#nav-award">ಇನ್ನಷ್ಟು ನೋಡಿ...</a>
+		</div> -->
+	</div>
+
 	<div class="row mt-5 paperClippings" id="paperClippings">
 		<div class="col-md-12 subtitle">
 			<h4 class="text-left">ಪತ್ರಿಕಾ ವರದಿಗಳು</h4>
